@@ -1,6 +1,6 @@
 ABSTRACT
 
-	The main objective of “PAYMENT SERVICE” is used to create a payment gateway service for some of the application to add this  
+   The main objective of “PAYMENT SERVICE” is used to create a payment gateway service for some of the application to add this  
   payment service for payment 
   
 
